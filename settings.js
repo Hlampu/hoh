@@ -25,12 +25,12 @@ global.youtube = "" //bebas asal jan hapus
 global.github = "" //bebas
 global.email = "hendraonly0@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "241 05 16 65 40" // nomor wa kalian
-global.ownernomerr = "+241 05 16 65 40" //nmr wa kalian
+global.ownernomer = "24105166540" // nomor wa kalian
+global.ownernomerr = "+24105166540" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["436507000206999","241 05 16 65 40","241 05 16 65 40"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["436507000206999","24105166540","24105166540"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐' //sticker wm ubah
 global.author = 'Di Buat Oleh 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ' //sticker wm ganti nama kalian
 global.sessionName = 'session'
@@ -42,7 +42,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: '🤗Done, Oke Ngtd',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
