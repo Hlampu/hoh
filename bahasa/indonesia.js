@@ -34,19 +34,19 @@ exports.cmdNotFound = (cmd, prefix) => {
 }
 
 exports.ownerOnly = () => {
-    return `❎ Command ini khusus Owner`
+    return `❎ Command ini khusus Owner Dek`
 }
 
 exports.doneOwner = () => {
-    return `✅  ️Sudah selesai, Owner ~`
+    return `✅  ️Sudah selesai, Owner Dek~`
 }
 
 exports.groupOnly = () => {
-    return `👥  Command ini hanya bisa digunakan di dalam grup!`
+    return `👥  Command ini hanya bisa digunakan di dalam grup dek!`
 }
 
 exports.adminOnly = () => {
-    return `🙅  Command ini hanya bisa digunakan oleh admin grup!`
+    return `🙅  Command ini hanya bisa digunakan oleh admin grup dek!`
 }
 
 exports.nhFalse = () => {
@@ -68,7 +68,7 @@ exports.adminAlready = () => {
 }
 
 exports.botNotAdmin = () => {
-    return `Jadikan bot sebagai admin terlebih dahulu! 🙏`
+    return `Jadikan bot sebagai admin terlebih dahulu kontol.! 🙏`
 }
 
 exports.received = (pushname) => {
@@ -97,8 +97,8 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
 ├ ${prefix}rules
-├ ${prefix}sc
-├ ${prefix}ping
+├ ${prefix} kontol lu ngemis
+├ ${prefix}ping kek mmek mu-_-
 ├ ${prefix}runtime
 ├ ${prefix}botstatus
 ╰❒ ${prefix}donate
